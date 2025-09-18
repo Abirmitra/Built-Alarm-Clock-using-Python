@@ -1,6 +1,7 @@
-# Built-Alarm-Clock-using-Python
-#Created a user-friendly clock with alarm sound integration using ”datetime” and”Playsound”.Included error handling for invalid inputs.
 
+# Built Alarm Clock using Python
+# Created a user-friendly clock with alarm sound integration using "datetime" and "playsound".
+# Included error handling for invalid inputs and invalid file paths.
 import time
 from playsound import playsound
 
